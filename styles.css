@@ -1,0 +1,8 @@
+.avatar_proportioned {
+    width: 300px;
+    height: fit-content;
+}
+.avatar_disorted {
+    width: 200px;
+    height: 400px;
+}
